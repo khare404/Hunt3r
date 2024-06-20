@@ -1,3 +1,3 @@
 # Hunt3r
 
-Hunt3r - An Automatic Pentesting Tool
+Hunt3r - An Automated Pentesting Tool
