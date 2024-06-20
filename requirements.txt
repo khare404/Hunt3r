@@ -1,0 +1,8 @@
+beautifulsoup4
+cryptography
+colorama
+nmap
+pyquery
+requests
+selenium
+sublist3r
